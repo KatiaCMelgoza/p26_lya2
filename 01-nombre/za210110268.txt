@@ -1,0 +1,3 @@
+Nombre: Juan Roberto Aguilar Molina
+No. Contro: 210110268
+Lenguaje de programación: python
