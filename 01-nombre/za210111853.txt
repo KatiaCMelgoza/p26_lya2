@@ -1,0 +1,3 @@
+Nombre: Graciela Mora Esparza
+No. Control: 210111853
+Lenguaje de programación: C++/Python
