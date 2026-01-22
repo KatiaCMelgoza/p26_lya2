@@ -1,0 +1,3 @@
+Nombre: Jose Jaime Nuñez Vazquez
+No. Contro: 230120398
+Lenguaje de programación: C++
